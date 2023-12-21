@@ -3,6 +3,7 @@
 This repo is a short guide to learning `git`. Check the [installation](#installation) section before proceeding further.
 
 CIAO!
+--Change added directtly from GitHub--
 
 ## Objectives
 
