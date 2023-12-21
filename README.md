@@ -2,6 +2,8 @@
 
 This repo is a short guide to learning `git`. Check the [installation](#installation) section before proceeding further.
 
+CIAO!
+
 ## Objectives
 
 The objectives are the things we want to learn with this project:
